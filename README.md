@@ -1,1 +1,3 @@
 # Analyzing_Computer_System_Configurations_Valgrind
+
+In this project, we analyze three distinct computer configurations de- signed for different use cases: gaming, word processing, and data processing. We used three different computers to evaluate performance, running a cus- tom game we created, AbiWord for word processing, and GNU Octave for data processing. Using Valgrind for performance profiling, we measured the efficiency of each configuration under these specific workloads. Our analy- sis allowed us to identify the strengths and weaknesses of each setup, and based on our research, we provide tailored recommendations for the optimal system setup for gaming, word processing, and data processing tasks.
